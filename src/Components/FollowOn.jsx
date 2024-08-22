@@ -10,13 +10,13 @@ const FollowOn = () => {
   >
     <span>Follow on:</span>
     <div className="flex gap-4 pt-3">
-      <a href="https://www.youtube.com/roadsidecoder">
+      <a href="https://www.youtube.com/@ammar7109">
         <FaYoutube size={20} />
       </a>
-      <a href="https://www.instagram.com/roadsidecoder">
+      <a href="https://www.instagram.com/ammy.pvt_04">
         <FaInstagram  size={20} />
       </a>
-      <a href="https://www.twitter.com/piyush_eon">
+      <a href="https://x.com/ammy_0069">
         <FaXTwitter  size={20} />
       </a>
     </div>
